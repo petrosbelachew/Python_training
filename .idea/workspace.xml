@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5d7eb3-770e-4f45-9a36-b7c5b4b148d8" name="Changes" comment="Advanced fucntions">
-      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+    <list default="true" id="1c5d7eb3-770e-4f45-9a36-b7c5b4b148d8" name="Changes" comment="Classes and Object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752871263381</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Classes and Object">
+      <option name="closed" value="true" />
+      <created>1753031140223</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753031140223</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +388,8 @@
     <MESSAGE value="cards" />
     <MESSAGE value="Initial commit with foundational structure of the game" />
     <MESSAGE value="Advanced fucntions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced fucntions" />
+    <MESSAGE value="Classes and Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and Object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
