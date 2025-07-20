@@ -1,7 +1,11 @@
 class MyClass:
-   def a_method(self):
-       print(f'called a_method on {self} ')
+    def __init__(self):
+        print(f'{self} was  initialized')
 
+    def a_method(self):
+       print(f'called a_method on {self} ')
+    def __str__(self):
+        return 'Instance of MyClass'
 
 class Horse:
    def trot(self):
