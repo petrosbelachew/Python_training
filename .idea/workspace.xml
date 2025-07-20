@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5d7eb3-770e-4f45-9a36-b7c5b4b148d8" name="Changes" comment="Initial commit with foundational structure of the game">
-      <change afterPath="$PROJECT_DIR$/Advanced_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/input.txt" afterDir="false" />
+    <list default="true" id="1c5d7eb3-770e-4f45-9a36-b7c5b4b148d8" name="Changes" comment="Advanced fucntions">
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,39 +49,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Advanced_functions.executor": "Run",
-    "Python.Elapsed_Time.executor": "Run",
-    "Python.Files.executor": "Run",
-    "Python.Functions.executor": "Run",
-    "Python.FunctionsP.executor": "Run",
-    "Python.Ifelse.executor": "Run",
-    "Python.Looping.executor": "Run",
-    "Python.MadLibs Game.executor": "Run",
-    "Python.TempratureConv.executor": "Run",
-    "Python.While_Problem.executor": "Run",
-    "Python.busfare.executor": "Run",
-    "Python.example_forloop.executor": "Run",
-    "Python.forloop_vowelcounter.executor": "Run",
-    "Python.problem_9_card_hands.executor": "Run",
-    "Python.pydic.executor": "Run",
-    "Python.quizgame.executor": "Run",
-    "Python.two dices.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Advanced_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Elapsed_Time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FunctionsP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Looping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MadLibs Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TempratureConv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While_Problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.busfare.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_forloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forloop_vowelcounter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_9_card_hands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pydic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quizgame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two dices.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Trianing\PythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Advanced_functions">
+  <component name="RunManager" selected="Python.classes">
     <configuration name="Advanced_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -128,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_9_card_hands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python/intro-to-python-main/intro-to-python-main/Problems" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/intro-to-python-main/intro-to-python-main/Problems/problem_9_card_hands.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classes" />
         <item itemvalue="Python.Advanced_functions" />
         <item itemvalue="Python.Files" />
         <item itemvalue="Python.pydic" />
         <item itemvalue="Python.quizgame" />
-        <item itemvalue="Python.problem_9_card_hands" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752843817091</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Advanced fucntions">
+      <option name="closed" value="true" />
+      <created>1752871263381</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1752871263381</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +379,8 @@
     <MESSAGE value="more" />
     <MESSAGE value="cards" />
     <MESSAGE value="Initial commit with foundational structure of the game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit with foundational structure of the game" />
+    <MESSAGE value="Advanced fucntions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced fucntions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -395,6 +403,10 @@
           <url>file://$PROJECT_DIR$/quizgame.py</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classes.py</url>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
